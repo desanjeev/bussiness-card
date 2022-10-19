@@ -1,0 +1,19 @@
+
+.emoji{
+    width: 150px;
+    
+}
+.card{
+    font-family: Verdana,Tahoma, sans-serif;
+padding: 20px;  
+display: flex;
+margin:0 auto;
+width: 400px;
+    
+text-align: center;
+color: black;
+background-color: #ddebf8;
+border-bottom: 38px solid #ffdd00;
+justify-content: space-around;
+border-radius: 8px;
+}
